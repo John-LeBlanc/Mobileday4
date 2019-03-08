@@ -1,0 +1,15 @@
+.container-fluid{
+    background-color: grey;
+}
+
+@media(min-width: 400px) {
+    .container-fluid{
+        background-color: pink;
+    }
+}
+body {
+    font-family: 'Kalam';
+}
+h1{
+    
+}
